@@ -20,4 +20,4 @@ console.log("O nome do jogo agora é"+ notificacao)
 
 console.log(notificacao + " Tem um novo pokemon na região")
 console.log(notificacao + " você foi derotado por um lider pokemon")
-console.log(notificacao +" Você capiturou um novo Pokemon")
+console.log(notificacao +" Você capiturou um novo Pokemon").
